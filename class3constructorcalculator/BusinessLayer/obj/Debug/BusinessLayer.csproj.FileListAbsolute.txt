@@ -1,0 +1,5 @@
+c:\users\swornim nepal\documents\visual studio 2012\Projects\class3constructorcalculator\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\swornim nepal\documents\visual studio 2012\Projects\class3constructorcalculator\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\swornim nepal\documents\visual studio 2012\Projects\class3constructorcalculator\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\swornim nepal\documents\visual studio 2012\Projects\class3constructorcalculator\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\swornim nepal\documents\visual studio 2012\Projects\class3constructorcalculator\BusinessLayer\obj\Debug\BusinessLayer.pdb
